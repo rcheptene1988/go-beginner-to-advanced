@@ -13,5 +13,5 @@ func main() {
 		{100, 120},
 	}
 
-	fmt.Println(slice1)
+	fmt.Println("Multi-Dimensional Slice: ", slice1)
 }
